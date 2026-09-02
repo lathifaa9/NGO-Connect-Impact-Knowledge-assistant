@@ -1,2 +1,3 @@
 # NGO-Connect-Impact-Knowledge-assistant
 A RAG-based chatbot that provides reliable information about Non-Governmental Organizations (NGOs) using a collection of authentic documents. 
+ It explains what NGOs are, how they are formed and work, what areas they work in, how people can find and approach suitable NGOs, what services and support NGOs provide, and how NGO activities benefit individuals and society. The system retrieves relevant information from the collected NGO documents and uses an open-source LLM to generate answers along with the corresponding source documents. When the requested information is not available in the knowledge base, the system indicates that clearly instead of fabricating an answer.
