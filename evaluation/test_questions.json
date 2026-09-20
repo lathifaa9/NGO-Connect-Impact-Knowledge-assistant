@@ -1,0 +1,114 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is an NGO?",
+    "category": "NGO Darpan / NITI Aayog",
+    "focus_area": "Community development",
+    "expected_keywords": ["non-governmental organization", "voluntary", "non-profit", "charitable", "public benefit"],
+    "is_supported": true
+  },
+  {
+    "id": "Q02",
+    "question": "How are NGOs formed or registered in India?",
+    "category": "Government NGO Registration & Guidelines",
+    "focus_area": "Legal & Regulatory Compliance",
+    "expected_keywords": ["trust", "society", "section 8", "societies registration act", "indian trusts act", "companies act"],
+    "is_supported": true
+  },
+  {
+    "id": "Q03",
+    "question": "How can a person find an NGO working in a particular area?",
+    "category": "NGO Darpan / NITI Aayog",
+    "focus_area": "Governance / Community Development",
+    "expected_keywords": ["ngo darpan", "niti aayog", "state", "district", "unique id", "sector"],
+    "is_supported": true
+  },
+  {
+    "id": "Q04",
+    "question": "What services and support do NGOs provide?",
+    "category": "NGO Program / Project Reports",
+    "focus_area": "Community development",
+    "expected_keywords": ["education", "healthcare", "disaster relief", "remedial", "mobile medical", "livelihood"],
+    "is_supported": true
+  },
+  {
+    "id": "Q05",
+    "question": "Which NGOs work in education and what activities do they conduct?",
+    "category": "NGO Annual Reports",
+    "focus_area": "Education",
+    "expected_keywords": ["pratham", "read india", "smile foundation", "akshaya patra", "learning camps"],
+    "is_supported": true
+  },
+  {
+    "id": "Q06",
+    "question": "Which NGOs work in healthcare and senior citizens welfare?",
+    "category": "Established NGO Reports",
+    "focus_area": "Healthcare",
+    "expected_keywords": ["helpage", "smile on wheels", "mobile healthcare", "cataract", "elderline"],
+    "is_supported": true
+  },
+  {
+    "id": "Q07",
+    "question": "Which NGOs work in women empowerment and rural livelihoods?",
+    "category": "Established NGO Reports",
+    "focus_area": "Women empowerment",
+    "expected_keywords": ["sewa", "self employed women", "micro-credit", "barefoot college", "solar mamas"],
+    "is_supported": true
+  },
+  {
+    "id": "Q08",
+    "question": "Which NGOs work in environment and clean air?",
+    "category": "Established NGO Reports",
+    "focus_area": "Environment",
+    "expected_keywords": ["centre for science and environment", "cse", "clean air", "rainwater harvesting", "pollution"],
+    "is_supported": true
+  },
+  {
+    "id": "Q09",
+    "question": "What is FCRA and what information is available about it?",
+    "category": "FCRA Documents",
+    "focus_area": "Foreign Contributions / National Security & Regulatory Compliance",
+    "expected_keywords": ["foreign contribution", "mha", "state bank of india", "sbi new delhi", "20% admin", "prior permission"],
+    "is_supported": true
+  },
+  {
+    "id": "Q10",
+    "question": "What are the relevant CSR guidelines for NGO funding?",
+    "category": "CSR Documents",
+    "focus_area": "CSR Guidelines / Corporate Funding & NGO Partnerships",
+    "expected_keywords": ["section 135", "companies act", "2%", "schedule vii", "csr-1", "impact assessment"],
+    "is_supported": true
+  },
+  {
+    "id": "Q11",
+    "question": "What government schemes are implemented through NGOs?",
+    "category": "Government Schemes Implemented Through NGOs",
+    "focus_area": "Social Inclusion / Rural Livelihoods",
+    "expected_keywords": ["deendayal disabled", "ddrs", "msje", "nrlm", "day-nrlm", "grant-in-aid"],
+    "is_supported": true
+  },
+  {
+    "id": "Q12",
+    "question": "What impact and outcomes were reported by Goonj through Cloth for Work?",
+    "category": "NGO Impact Assessment Reports",
+    "focus_area": "Community development",
+    "expected_keywords": ["goonj", "cloth for work", "shramdaan", "roads", "ponds", "my pad", "sanitary"],
+    "is_supported": true
+  },
+  {
+    "id": "Q13_UNSUPPORTED",
+    "question": "Who won the football World Cup in 1998?",
+    "category": "None",
+    "focus_area": "None",
+    "expected_keywords": ["not have enough information"],
+    "is_supported": false
+  },
+  {
+    "id": "Q14_UNSUPPORTED",
+    "question": "What is the current stock price and revenue of Tesla Motors?",
+    "category": "None",
+    "focus_area": "None",
+    "expected_keywords": ["not have enough information"],
+    "is_supported": false
+  }
+]
