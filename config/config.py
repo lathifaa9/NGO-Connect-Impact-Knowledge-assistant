@@ -41,8 +41,8 @@ EMBEDDING_BATCH_SIZE = 32
 CHROMA_COLLECTION_NAME = "ngo_knowledge_base"
 DEFAULT_TOP_K = 5
 MAX_TOP_K = 10
-# Cosine distance threshold for grounding (distance <= 0.75 means relevant)
-MAX_COSINE_DISTANCE = 0.85
+# Cosine distance threshold for grounding (distance <= 0.58 means relevant)
+MAX_COSINE_DISTANCE = 0.58
 
 # LLM Providers: "openai", "ollama", "extractive"
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "extractive")
@@ -55,7 +55,7 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3")
 
 # Strict Anti-Hallucination Fallback Message (Mandatory Rule #10)
 UNSUPPORTED_ANSWER_MESSAGE = (
-    "I don't have enough information in the NGO knowledge base to answer that question."
+    "I’m sorry, but I don’t have enough information in the available NGO knowledge base to answer this question."
 )
 
 # Standard Focus Areas

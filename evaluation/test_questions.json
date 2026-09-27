@@ -110,5 +110,13 @@
     "focus_area": "None",
     "expected_keywords": ["not have enough information"],
     "is_supported": false
+  },
+  {
+    "id": "Q15_UNSUPPORTED",
+    "question": "What is the capital city and official currency of Mars?",
+    "category": "None",
+    "focus_area": "None",
+    "expected_keywords": ["not have enough information"],
+    "is_supported": false
   }
 ]
